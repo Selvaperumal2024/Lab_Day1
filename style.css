@@ -1,0 +1,76 @@
+
+.footer{
+    margin-left: 50px;
+    font-size: 18px;
+    font-family: Nunito Sans;
+    font-style: normal;
+    margin-top: -35%;
+    display:flex;
+    flex-direction: row;
+    align-content: flex-end;
+    position: relative;
+    top: 750px;
+    
+}
+#logo{
+    
+    margin-top: 50px;
+    margin-right: 50px;
+    height: 60px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+#Score{
+    background-color: rgb(245, 57, 43);
+}
+#india{
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+}
+#bat{
+    display: flex;
+}
+a{
+    cursor: pointer;
+    text-decoration: none;
+}
+
+#bck{
+    position: absolute;
+    z-index: -1;
+    margin-left: 1000px;
+     margin-top: 200px;
+     width: 900px;
+     height: 700px;
+}
+#ICC{
+
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-shadow: 5px 5px 5px rgb(124, 122, 122);
+    font-size: 700px;
+    font: 5em sans-serif;
+}
+
+#India {
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font: 2em sans-serif;
+    color: gray;
+}
+td,th {
+    font-size: 25px;
+    padding: 10px;
+}
+#spl{
+    text-align: left;
+}
+#table{
+    background-color: white;
+    margin-left: 50px;
